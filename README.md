@@ -1,44 +1,31 @@
 # 👋 Hi, I'm Mostafa Gaber
 
-React Developer passionate about building user-friendly and performant web applications. Based in Alexandria, Egypt 🌍
+AI Automation Developer & Full-Stack Engineer specializing in intelligent workflow automation and conversational AI systems. Based in Alexandria, Egypt 🌍
 
 ## 🚀 About Me
-- 💻 Frontend Developer specializing in React
-- 🌱 Always learning and staying up-to-date with React developments
-- 🤝 Looking to collaborate on interesting React projects
-- 🎯 Focused on crafting reusable, efficient components
+
+🤖 **AI Automation Specialist** - Building intelligent agents with n8n, Python & LangChain  
+💬 **Conversational AI Developer** - Creating production-ready chatbots and voice agents  
+🔧 **Full-Stack Developer** - React, Next.js, Python, FastAPI  
+🌱 **Continuous Learner** - Exploring cutting-edge AI/ML technologies  
+🤝 **Open to Collaborate** - AI automation projects, SaaS products, intelligent agents  
+🎯 **Mission** - Automating business processes with AI-powered solutions
 
 ## 🛠️ Tech Stack
-```javascript
-const techStack = {
-    languages: ["JavaScript", "TypeScript"],
-    frontend: ["React", "Next.js"],
-    styling: ["Material-UI", "Tailwind CSS", "Sass/SCSS", "Semantic-UI"],
-    stateManagement: ["Redux"],
-    tools: ["Git", "Webpack", "Vercel"],
-    testing: ["Browserstack", "SauceLabs"]
-};
-```
 
-## 💼 Professional Experience
-- 🔭 Currently working as a **Freelance React Developer**
-- 🌟 Previously worked at **Sutherland Global Lyft Account** as Customer Service Representative
-- 📚 Bachelor's Degree in Computer Science & Information Technology
+### 🤖 AI & Automation
+n8n • LangChain • LangGraph • OpenAI API • Claude • Vapi • Twilio • WhatsApp Business API
 
-## 🌟 Key Skills
-- Problem Solving
-- Fast Learning
-- Attention to Detail
-- Independent Work
-- Adaptability
-- Time Management
+### ⚙️ Backend
+Python • FastAPI • Node.js • Express • PostgreSQL • Supabase • Airtable • Firebase
 
-## 🔥 Featured Projects
-- [Space Flame Project](https://space-flame-omega.vercel.app/)
-- [E-commerce Shop](https://e-commerce-shop-git.vercel.app/)
+### 🎨 Frontend  
+React • Next.js • TypeScript • JavaScript • Material-UI • Tailwind CSS • Redux
 
-## 📊 GitHub Stats
-![Mostafa's GitHub stats](https://github-readme-stats.vercel.app/api?username=mostafa400&show_icons=true&theme=radical)
+### 🚀 DevOps & Tools
+Git • Docker • Vercel • GitHub Actions • Webhooks • REST APIs • WebSockets
+
+
 
 ## 🤝 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mostafa-gaber-g5)
